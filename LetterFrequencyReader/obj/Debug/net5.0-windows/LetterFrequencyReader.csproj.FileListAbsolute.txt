@@ -1,0 +1,16 @@
+C:\Users\jobko\RiderProjects\LetterFrequencyReader\LetterFrequencyReader\bin\Debug\net5.0-windows\LetterFrequencyReader.exe
+C:\Users\jobko\RiderProjects\LetterFrequencyReader\LetterFrequencyReader\bin\Debug\net5.0-windows\LetterFrequencyReader.deps.json
+C:\Users\jobko\RiderProjects\LetterFrequencyReader\LetterFrequencyReader\bin\Debug\net5.0-windows\LetterFrequencyReader.runtimeconfig.json
+C:\Users\jobko\RiderProjects\LetterFrequencyReader\LetterFrequencyReader\bin\Debug\net5.0-windows\LetterFrequencyReader.runtimeconfig.dev.json
+C:\Users\jobko\RiderProjects\LetterFrequencyReader\LetterFrequencyReader\bin\Debug\net5.0-windows\LetterFrequencyReader.dll
+C:\Users\jobko\RiderProjects\LetterFrequencyReader\LetterFrequencyReader\bin\Debug\net5.0-windows\ref\LetterFrequencyReader.dll
+C:\Users\jobko\RiderProjects\LetterFrequencyReader\LetterFrequencyReader\bin\Debug\net5.0-windows\LetterFrequencyReader.pdb
+C:\Users\jobko\RiderProjects\LetterFrequencyReader\LetterFrequencyReader\obj\Debug\net5.0-windows\LetterFrequencyReader.csproj.AssemblyReference.cache
+C:\Users\jobko\RiderProjects\LetterFrequencyReader\LetterFrequencyReader\obj\Debug\net5.0-windows\LetterFrequencyReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jobko\RiderProjects\LetterFrequencyReader\LetterFrequencyReader\obj\Debug\net5.0-windows\LetterFrequencyReader.AssemblyInfoInputs.cache
+C:\Users\jobko\RiderProjects\LetterFrequencyReader\LetterFrequencyReader\obj\Debug\net5.0-windows\LetterFrequencyReader.AssemblyInfo.cs
+C:\Users\jobko\RiderProjects\LetterFrequencyReader\LetterFrequencyReader\obj\Debug\net5.0-windows\LetterFrequencyReader.csproj.CoreCompileInputs.cache
+C:\Users\jobko\RiderProjects\LetterFrequencyReader\LetterFrequencyReader\obj\Debug\net5.0-windows\LetterFrequencyReader.dll
+C:\Users\jobko\RiderProjects\LetterFrequencyReader\LetterFrequencyReader\obj\Debug\net5.0-windows\ref\LetterFrequencyReader.dll
+C:\Users\jobko\RiderProjects\LetterFrequencyReader\LetterFrequencyReader\obj\Debug\net5.0-windows\LetterFrequencyReader.pdb
+C:\Users\jobko\RiderProjects\LetterFrequencyReader\LetterFrequencyReader\obj\Debug\net5.0-windows\LetterFrequencyReader.genruntimeconfig.cache
